@@ -59,7 +59,7 @@ A beautiful, interactive terminal script for cleaning up system data on macOS. F
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/dikans/dikans-boot/main/mac_system_data_cleanup.zsh
+curl -O https://raw.githubusercontent.com/dikans/macos-system-data-clean-up/main/mac_system_data_cleanup.zsh
 
 # Make it executable
 chmod +x mac_system_data_cleanup.zsh
@@ -71,8 +71,8 @@ chmod +x mac_system_data_cleanup.zsh
 ### Clone Repository
 
 ```bash
-git clone https://github.com/dikans/dikans-boot.git
-cd dikans-boot
+git clone https://github.com/dikans/macos-system-data-clean-up.git
+cd macos-system-data-clean-up
 chmod +x mac_system_data_cleanup.zsh
 ./mac_system_data_cleanup.zsh
 ```
@@ -138,7 +138,7 @@ This script deletes cache files. While it's designed to be safe and only removes
 
 ## 🙏 Credits
 
-Created by **Dikans** - A full-stack developer passionate about clean systems and beautiful terminal UIs.
+Created by **Dikans**
 
 ## 📊 Typical Results
 
@@ -148,5 +148,3 @@ Users typically free up:
 - **1-5 GB** for general users
 
 ---
-
-**Star ⭐ this repo if it helped you clean up your Mac!**
